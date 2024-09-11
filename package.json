@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Bekimoon0043.github.io/NEWSWEBSITE",
+  "homepage": "https://github.com/Bekimoon0043/Beko.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
